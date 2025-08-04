@@ -1,5 +1,8 @@
 # Hexo TTS Learning Plugin
 
+<img width="817" height="451" alt="image" src="https://github.com/user-attachments/assets/a2c4fedc-c3b1-4d64-8948-f39fbae310b1" />
+
+
 ## Purpose
 
 **Hexo TTS Learning** is a plugin for [Hexo](https://hexo.io/) that adds interactive language learning cards to your blog posts. Each card allows users to:
@@ -118,6 +121,8 @@ Created by [Rduanchen](https://github.com/Rduanchen).
 Email: [chenyouduan@gmail.com](mailto:chenyouduan@gmail.com)
 
 # Hexo TTS Learning 插件
+
+<img width="817" height="451" alt="image" src="https://github.com/user-attachments/assets/a2c4fedc-c3b1-4d64-8948-f39fbae310b1" />
 
 ### 📚 目的
 
