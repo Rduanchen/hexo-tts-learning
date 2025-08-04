@@ -2,6 +2,7 @@
 
 <img width="817" height="451" alt="image" src="https://github.com/user-attachments/assets/a2c4fedc-c3b1-4d64-8948-f39fbae310b1" />
 
+[Demo](https://rduanchen.github.io/language_learning/)
 
 ## Purpose
 
@@ -123,6 +124,8 @@ Email: [chenyouduan@gmail.com](mailto:chenyouduan@gmail.com)
 # Hexo TTS Learning 插件
 
 <img width="817" height="451" alt="image" src="https://github.com/user-attachments/assets/a2c4fedc-c3b1-4d64-8948-f39fbae310b1" />
+
+[範例](https://rduanchen.github.io/language_learning/)
 
 ### 📚 目的
 
